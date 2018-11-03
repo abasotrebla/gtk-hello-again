@@ -1,0 +1,11 @@
+[Desktop Entry]
+Name=Hello Again
+GenericName=Hello World App
+Comment=Proves that we can use Vala and Gtk
+Categoris=Utility;Education;
+Exec=com.github.abasotrebla.gtk-hello-again
+Icon=application-default-icon
+Termianl=false
+Type=Application
+Keywords=Hello;World;Example;
+
